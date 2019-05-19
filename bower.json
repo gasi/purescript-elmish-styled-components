@@ -1,0 +1,23 @@
+{
+  "name": "purescript-elmish-styled-components",
+  "description": "styled-components for PureScript Elmish",
+  "authors": [
+    "Daniel Gasienica <daniel@gasienica.ch>"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gasi/purescript-elmish-styled-components.git"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "examples",
+    "node_modules",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-elmish-html": "^0.0.1",
+    "purescript-elmish": "^0.0.4"
+  }
+}
